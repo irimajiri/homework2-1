@@ -26,3 +26,4 @@ cv2.destroyAllWindows()
 //Type "help", "copyright", "credits" or "license" for more information.
 
 //コントラスト変更としてガンマ変換を行った.
+//YOUTUBE:https://www.youtube.com/watch?v=tw66IS6IPQo&feature=youtu.be
